@@ -1,0 +1,32 @@
+/* BurglaryGraph.css */
+
+.chart-container {
+    position: relative;
+  }
+  
+  .crime-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .blue-bar {
+    background: linear-gradient(90deg, #006EFF, #21DCFF); 
+    height: 5px; 
+    width: 93%;
+    margin-left: 10px;
+    margin-bottom: 3px;
+  }
+  
+  .crime-title h2 {
+    font-size: 20px;
+    color: #333;
+    margin-left: 5px;
+  }
+
+  .location-icon{
+    color: #1463ff;
+    margin-left: 5px;
+    margin-bottom: 7px;
+  }
+  

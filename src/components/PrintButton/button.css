@@ -1,0 +1,24 @@
+.print-button-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.print-button {
+  border-radius: 8px;
+}
+
+.print-icon {
+  margin-right: 5px;
+}
+
+.hidden-print {
+  display: none;
+}
+
+@media print {
+  .hidden-print {
+    display: block; /* Show the content only when printing */
+  }
+}
