@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RealAssit.AI/static/css/main.b3052673.css",
+    "main.js": "/RealAssit.AI/static/js/main.97d220c3.js",
+    "static/js/787.ad15ad80.chunk.js": "/RealAssit.AI/static/js/787.ad15ad80.chunk.js",
+    "index.html": "/RealAssit.AI/index.html",
+    "main.b3052673.css.map": "/RealAssit.AI/static/css/main.b3052673.css.map",
+    "main.97d220c3.js.map": "/RealAssit.AI/static/js/main.97d220c3.js.map",
+    "787.ad15ad80.chunk.js.map": "/RealAssit.AI/static/js/787.ad15ad80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3052673.css",
+    "static/js/main.97d220c3.js"
+  ]
+}
